@@ -1,0 +1,41 @@
+[
+	{
+		"title": "Normal questions",
+		"questions": [
+			{
+				"question": "Have you been drinking recently?",
+				"answers": ["Yes.", "No.", "Of course I did."]
+			},
+			{
+				"question": "Where are you heading to?",
+				"answers": ["I'm going home.", "It's my own business..."]
+			}
+		]
+	},
+	{
+		"title": "Traffic stop questions",
+		"questions": [
+			{
+				"question": "Hello, how are you?",
+				"answers": ["Hey!", "Hello officer!", "Good day sir!"]
+			},
+			{
+				"question": "Hello",
+				"answers": ["Hey!", "Hello officer!", "Good day sir!"]
+			}
+		]
+	},
+	{
+		"title": "Documentation questions",
+		"questions": [
+			{
+				"question": "Do you have your drivers license with you?",
+				"answers": ["Yes.", "No.", "No, I left it at home."]
+			},
+			{
+				"question": "Do you have a hunting license?",
+				"answers": ["Nope.", "Yes sir yes."]
+			}
+		]
+	}
+]

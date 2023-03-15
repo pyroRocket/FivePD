@@ -1,0 +1,21 @@
+[
+	{
+		"isEnabled": true,
+		"name": "Paleto Bay PD",
+		"vehicles": [
+			{
+				"isEnabled": true,
+				"location": {
+					"x": -438.42,
+					"y": 6028.29,
+					"z": 31.34,
+					"heading": 28.59,
+				},
+				"vehicle": {
+					"model": "police",
+					"livery": 1
+				}
+			}
+		]
+	}
+]

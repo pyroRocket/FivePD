@@ -1,0 +1,39 @@
+{
+  "db": "sqlite",
+  "database": {
+    "username": "root",
+    "password": "",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "fivepd"
+  },
+  "stationBlips": true,
+  "maxReportLength": 1000,
+  "maxFine": 1000000,
+  "maxFinePoint": 100,
+  "maxCallLength": 125,
+  "maxOfficerNameLength": 125,
+  "maxAINameLength": 50,
+  "maxNumberOfInvolvedOfficers": 32,
+  "maxNumberOfSuspects": 32,
+  "maxNumberOfVictims": 32,
+  "maxViolationCount": 32,
+  "isSignatureEnabled": true,
+  "maxSignatureSize": 10.0,
+  "maxStreetNameLength": 25,
+  "maxCityNameLength": 30,
+  "maxZIPLength": 10,
+  "maxChargeCount": 15,
+  "maxReportCount": 100,
+  "maxCitationCount": 100,
+  "minCallsignLength": 1,
+  "maxCallsignLength": 15,
+  "adminCode": "admin",
+  "discord": {
+    "enable": true,
+    "token": ""
+  },
+  "dutyNotification": true,
+  "observation": true,
+  "allowlist": false
+}

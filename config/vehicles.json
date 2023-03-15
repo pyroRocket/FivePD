@@ -1,0 +1,46 @@
+{
+	"police": [
+		{
+			"name": "Police",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "Police 2",
+			"vehicle": "police2",
+			"isAvailableForEveryone": false,
+			"useRanks": true,
+			"availableForRanks": ["Officer I", "Officer II"],
+			"availableForDepartments": []
+		},
+		{
+			"name": "Police 3",
+			"vehicle": "police3",
+			"isAvailableForEveryone": false,
+			"useRanks": false,
+			"availableForRanks": ["Detective I", "Detective II"],
+			"availableForDepartments": [18]
+		},
+		{
+			"name": "Police 4",
+			"vehicle": "police4",
+			"isAvailableForEveryone": false,
+			"useRanks": false,
+			"availableForDepartments": [19]
+		},
+		{
+			"name": "sheriff2",
+			"vehicle": "sheriff2",
+			"isAvailableForEveryone": true
+		}
+	],
+	"ambulance": ["ambulance"],
+	"airAmbulance": ["polmav"],
+	"firedept": ["firetruk"],
+	"coroner": ["speedo", "utillitruck3"],
+	"towtruck": ["flatbed"],
+	"mechanic": ["utillitruck3"],
+	"prisontransport": ["police"],
+	"animalControl": ["bison"],
+	"taxi": ["taxi"]
+}
